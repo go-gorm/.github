@@ -1,7 +1,6 @@
 ---
 name: 🍻  Feature request
 about: Suggest an idea, Pull Request welcome 🚀
-labels: 'feature request'
 ---
 
 ## Describe the feature

@@ -1,7 +1,7 @@
 ---
 name: 💬  Question
 about: The resources of the GORM team are limited, please search documents/google/issues/test cases before ask 🙏
-labels: 'question'
+labels: 'type:question'
 ---
 
 ## Your Question
