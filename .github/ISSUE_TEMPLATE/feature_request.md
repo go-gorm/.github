@@ -1,6 +1,9 @@
 ---
 name: 🍻  Feature request
 about: Suggest an idea, Pull Request welcome 🚀
+labels: type:feature
+assignees: jinzhu
+
 ---
 
 ## Describe the feature
