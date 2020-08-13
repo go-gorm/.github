@@ -8,7 +8,11 @@ assignees: jinzhu
 
 ## Your Question
 
-<!-- Ask your question, please select `Report a bug` for bugs -->
+<!-- Ask your question in English, minimalist example is highly recommended, please `Report a bug` for bugs -->
+
+## The document you expected this should be explained
+
+<!-- The document link you expected this question should be explained of our [official documents site](http://v2.gorm.io) -->
 
 ## Expected answer
 
