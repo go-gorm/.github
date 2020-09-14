@@ -9,7 +9,7 @@ assignees: jinzhu
 ## GORM Playground Link
 
 <!--
-Your issue *have to* include a GORM Playground Pull Request Link that can reproduce the bug, refer: https://github.com/go-gorm/playground
+Your issue *have to* include a GORM Playground Pull Request Link that can reproduce the bug, which is important to help others understand your issue effectively and make sure the issue hasn't been fixed on latest master, refer: https://github.com/go-gorm/playground
 
 Change following URL to your link
 -->

@@ -8,6 +8,8 @@ assignees: jinzhu
 
 ## Your Question
 
+<!-- Most likely your question already answered https://github.com/go-gorm/gorm/issues or described in the document https://gorm.io, ✨ Search Before Asking ✨ -->
+
 <!-- Ask your question in English, minimalist example is highly recommended, please `Report a bug` for bugs -->
 
 ## The document you expected this should be explained
