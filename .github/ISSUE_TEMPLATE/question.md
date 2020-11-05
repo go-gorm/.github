@@ -6,6 +6,8 @@ assignees: jinzhu
 
 ---
 
+<!-- DON'T CHANGE THE TEMPLATE -->
+
 ## Your Question
 
 <!-- Most likely your question already answered https://github.com/go-gorm/gorm/issues or described in the document https://gorm.io, ✨ Search Before Asking ✨ -->
@@ -14,7 +16,7 @@ assignees: jinzhu
 
 ## The document you expected this should be explained
 
-<!-- The document link you expected this question should be explained of our [official documents site](http://v2.gorm.io) -->
+<!-- The document link you expected this question should be explained in our [official documents site](https://gorm.io) -->
 
 ## Expected answer
 
