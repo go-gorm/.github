@@ -3,7 +3,6 @@ name: 🐛  Report a bug
 about: Your issue may already be reported! please search on the https://github.com/go-gorm/gorm/issues before creating one 🥳
 labels: type:bug
 assignees: jinzhu
-
 ---
 
 ## GORM Playground Link
@@ -20,4 +19,8 @@ https://github.com/go-gorm/playground/pull/1
 
 ## Description
 
-<!-- Your use case -->
+<!--
+Try to search for your issue - it may have already been answered or even fixed in the master branch. However, if you find that an old, closed issue still persists in the latest version, you should open a new issue using the form below instead of commenting on the old issue.
+
+Your use case
+-->
